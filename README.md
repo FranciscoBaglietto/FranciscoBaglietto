@@ -2,7 +2,7 @@
 
 <h2>Actualmente me encuentro en etapa de crecimiento como desarrollador Web FullStack</h2>
 
-- ⭐ Habilidades: **HTML, CSS, Sass, JavaScript, ReactJs**.
+- ⭐ Habilidades: **HTML, CSS, Sass, JavaScript, ReactJs**
 
 - 🌱 Actualmente estoy aprendiendo Backend.
 
