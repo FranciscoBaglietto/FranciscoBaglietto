@@ -1,10 +1,12 @@
 <h1 align="center">Hola👋!! Mi nombre es Francisco Baglietto Piermattei </h1>
 
-<h2>Estoy estudiando Desarrollo Web FullStack</h2>
+<h2>Actualmente me encuentro en etapa de crecimiento como desarrollador Web FullStack</h2>
 
-- Cuento con los conocimientos de **HTML, CSS, Sass, JavaScript, ReactJs**
+- Habilidades: **HTML, CSS, Sass, JavaScript, ReactJs**
 
-- Actualmente estoy aprendiendo Backend
+- 🌱 Actualmente estoy aprendiendo Backend
+
+- 📫 Cómo contactarme: fbagliettopiermattei@gmail.com
 
 
 <h3 align="left">Lenguajes:</h3>
