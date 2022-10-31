@@ -6,7 +6,7 @@
 
 - 🌱 Actualmente estoy aprendiendo Backend
 
-- 📫 Cómo contactarme: fbagliettopiermattei@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/francisco-baglietto-piermattei-developer/
 
 
 <h3 align="left">Lenguajes:</h3>
