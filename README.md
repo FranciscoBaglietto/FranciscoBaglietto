@@ -16,11 +16,4 @@
 
 
 
-
-
-<a href="https://github.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="40px" height="40px"></a>
-
-
-
-
 </p>
