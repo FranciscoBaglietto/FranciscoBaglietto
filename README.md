@@ -11,6 +11,6 @@
 
 <p align="center">
 
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://www.flaticon.com/free-icons/logo" alt="HTML"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="HTML"></a>
 
 </p>
