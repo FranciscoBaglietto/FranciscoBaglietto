@@ -4,7 +4,7 @@
 
 - ⭐ Habilidades: **HTML, CSS, Sass, JavaScript, ReactJs**.
 
-- 🌱 Actualmente estoy aprendiendo Backend..
+- 🌱 Actualmente estoy aprendiendo Backend.
 
 - 📫 Linkedin: https://www.linkedin.com/in/francisco-baglietto-piermattei-developer/
 
