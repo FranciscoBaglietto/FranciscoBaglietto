@@ -17,4 +17,4 @@
 
 </p>
 
-<align="center" >- ⭐ Habilidades: **HTML, CSS, Sass, JavaScript, ReactJs**.</>
+< p align="center" >- ⭐ Habilidades: **HTML, CSS, Sass, JavaScript, ReactJs**.</p>
