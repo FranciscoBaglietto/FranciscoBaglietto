@@ -15,9 +15,9 @@
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="HTML" width="50px" height="50px"></a> <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width="50px" height="50px"></a> <a href="https://sass-lang.com/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" alt="Sass" width="50px" height="50px"></a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50px" height="50px"></a> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="Javascript" width="50px" height="50px"></a> <a href="https://es.reactjs.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="ReactJs" width="50px" height="50px"></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50px" height="50px"></a> <a href="https://github.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="50px" height="50px"></a>
 
 
+<a href="https://github.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png" alt="Git" width="50px" height="50px"></a>
 
 
-<a href="https://github.com/" target="_blank"> <img src="https://img1.freepng.es/20180815/ta/kisspng-sass-logo-cascading-style-sheets-scalable-vector-g-codzero-cms-blog-tool-publishing-platform-5b74aaa0a0f4b2.3928971215343725126593.jpg" alt="Git" width="50px" height="50px"></a>
 
 
 
